@@ -1,4 +1,4 @@
 'use strict'
-function a(get){
- get() 
+function a(){
+ 
 }
